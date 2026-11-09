@@ -40,4 +40,4 @@ Python, pandas, scikit-learn e matplotlib.
 
 ## Autor
 
-Matheus Cardoso da Silva — [LinkedIn](www.linkedin.com/in/matheus-cardoso-da-silva-a21797162)
+Matheus Cardoso da Silva — [LinkedIn](https://www.linkedin.com/in/matheus-cardoso-da-silva-a21797162/)
